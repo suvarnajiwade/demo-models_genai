@@ -1,0 +1,22 @@
+# Langchain core
+langchain
+langchain-core
+
+# OpenAI integration
+langchain-openai
+openai
+
+# Anthropic integration
+langchain-google-genai
+google-generativeai
+
+# Hugging Face integration
+transformers
+huggingface_hub
+
+# Environment variable management
+python-dotenv
+
+# Machine learning utilities
+numpy
+scikit-learn
